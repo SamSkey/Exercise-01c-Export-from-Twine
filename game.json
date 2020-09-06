@@ -1,0 +1,252 @@
+{
+    "passages": [
+      {
+        "text": "You are experiencing a \"out of body\" experience at the moment and you are currently at the Beginning of Everything. There is nothing, except for a light that seems to be impossibly far away.\n\n[[Impossible? Not to me!->Head towards the light]]\n[[I think an allegory for death is too deep->You go to the nothing]]\n\n\n\n",
+        "links": [
+          {
+            "name": "Impossible? Not to me!",
+            "link": "Head towards the light",
+            "pid": "2"
+          },
+          {
+            "name": "I think an allegory for death is too deep",
+            "link": "You go to the nothing",
+            "pid": "3"
+          }
+        ],
+        "name": "The Beginning of All Time",
+        "pid": "1",
+        "position": {
+          "x": "404",
+          "y": "170.5"
+        }
+      },
+      {
+        "text": "You get closer and closer to the light. It grows in size until it covers everything in your eyesight. Then you recongnize someone in the light.\n\n[[Hello.......?->The Person Turns]]\n[[Yeah no, I'm out->You go to the nothing]] \n",
+        "links": [
+          {
+            "name": "Hello.......?",
+            "link": "The Person Turns",
+            "pid": "8"
+          },
+          {
+            "name": "Yeah no, I'm out",
+            "link": "You go to the nothing",
+            "pid": "3"
+          }
+        ],
+        "name": "Head towards the light",
+        "pid": "2",
+        "position": {
+          "x": "330",
+          "y": "320.5"
+        }
+      },
+      {
+        "text": "Well, you head out into the....well....nothing. You keep going for 5 minutes then decide to give up. It seems like if you continue on, you will be met with nothing.\n\n[[Ok the light seems like a good idea now->Head towards the light]] \n[[No, I can't give up! Not yet! ->You continue into nothing]]\n",
+        "links": [
+          {
+            "name": "Ok the light seems like a good idea now",
+            "link": "Head towards the light",
+            "pid": "2"
+          },
+          {
+            "name": "No, I can't give up! Not yet! ",
+            "link": "You continue into nothing",
+            "pid": "4"
+          }
+        ],
+        "name": "You go to the nothing",
+        "pid": "3",
+        "position": {
+          "x": "478",
+          "y": "317.5"
+        }
+      },
+      {
+        "text": "There is nothing\n\n[[There must be something!->You keep going]]\n[[Huh......there really is nothing->Head towards the light]]",
+        "links": [
+          {
+            "name": "There must be something!",
+            "link": "You keep going",
+            "pid": "5"
+          },
+          {
+            "name": "Huh......there really is nothing",
+            "link": "Head towards the light",
+            "pid": "2"
+          }
+        ],
+        "name": "You continue into nothing",
+        "pid": "4",
+        "position": {
+          "x": "518",
+          "y": "530.5"
+        }
+      },
+      {
+        "text": "I don't understand what you think you'll achieve here.\n\n[[Oh there is a secret achievement here????->Secret Achievement???????]]\n[[You know what, you're right. I'll use my rational thinking->Head towards the light]] \n\n",
+        "links": [
+          {
+            "name": "Oh there is a secret achievement here????",
+            "link": "Secret Achievement???????",
+            "pid": "6"
+          },
+          {
+            "name": "You know what, you're right. I'll use my rational thinking",
+            "link": "Head towards the light",
+            "pid": "2"
+          }
+        ],
+        "name": "You keep going",
+        "pid": "5",
+        "position": {
+          "x": "401",
+          "y": "628.5"
+        }
+      },
+      {
+        "text": "No\n\n\n[[You're lying!->Go to the End]]\n[[Dang, was really hoping there would be one->Head towards the light]] ",
+        "links": [
+          {
+            "name": "You're lying!",
+            "link": "Go to the End",
+            "pid": "7"
+          },
+          {
+            "name": "Dang, was really hoping there would be one",
+            "link": "Head towards the light",
+            "pid": "2"
+          }
+        ],
+        "name": "Secret Achievement???????",
+        "pid": "6",
+        "position": {
+          "x": "252",
+          "y": "699.5"
+        }
+      },
+      {
+        "text": "Well, this is the end. You can not go anywhere now. All you had to do was go towards the light, but you couldn't even complete that simple task. Get out of here you. Go on now! Get!",
+        "name": "Go to the End",
+        "pid": "7",
+        "position": {
+          "x": "252",
+          "y": "849.5"
+        }
+      },
+      {
+        "text": "He gives you a look. You don't know where or when, but the look he gives is eerily familiar. A look.....with such emotion and power. You know that look. \nYou feel offended as you haven't said a single thing to this person, but they continue to give you a look.\n\n[[Give them a look->They're making a run for it!]]\n[[Slap them->That was a pretty good slap]]",
+        "links": [
+          {
+            "name": "Give them a look",
+            "link": "They're making a run for it!",
+            "pid": "9"
+          },
+          {
+            "name": "Slap them",
+            "link": "That was a pretty good slap",
+            "pid": "10"
+          }
+        ],
+        "name": "The Person Turns",
+        "pid": "8",
+        "position": {
+          "x": "142",
+          "y": "322.5"
+        }
+      },
+      {
+        "text": "The moment you gave them back a look, the person bolted off into the nothing.\nYou hesitate but finally you....\n\n[[RUN AFTER THAT MAN->You dash to the man]]\n[[Nah forget that->You continue into the light]]",
+        "links": [
+          {
+            "name": "RUN AFTER THAT MAN",
+            "link": "You dash to the man",
+            "pid": "11"
+          },
+          {
+            "name": "Nah forget that",
+            "link": "You continue into the light",
+            "pid": "12"
+          }
+        ],
+        "name": "They're making a run for it!",
+        "pid": "9",
+        "position": {
+          "x": "67",
+          "y": "472.5"
+        }
+      },
+      {
+        "text": "You K.O. the man! You mad lad. Absolute unit of a man. We need more people like you in the army.\n\n[[Thanks!->No, thank you]]",
+        "links": [
+          {
+            "name": "Thanks!",
+            "link": "No, thank you",
+            "pid": "14"
+          }
+        ],
+        "name": "That was a pretty good slap",
+        "pid": "10",
+        "position": {
+          "x": "217",
+          "y": "472.5"
+        }
+      },
+      {
+        "text": "He eventually leads you away from the light and you lose sight of him. You wonder off, but you can't see anything. Even the light has faded. All there is now, is nothing.\n\n\n[[Is this the end?->The End]]",
+        "links": [
+          {
+            "name": "Is this the end?",
+            "link": "The End",
+            "pid": "13"
+          }
+        ],
+        "name": "You dash to the man",
+        "pid": "11",
+        "position": {
+          "x": "53",
+          "y": "790.5"
+        }
+      },
+      {
+        "text": "Double-click this passage to edit it.",
+        "name": "You continue into the light",
+        "pid": "12",
+        "position": {
+          "x": "142",
+          "y": "622.5"
+        }
+      },
+      {
+        "text": "Yes, it is the End. Have a good day",
+        "name": "The End",
+        "pid": "13",
+        "position": {
+          "x": "53",
+          "y": "940.5"
+        }
+      },
+      {
+        "text": "All the sudden the light disappears and there is nothing!\n\n[[Wha....Wait..Huh?->The End]]",
+        "links": [
+          {
+            "name": "Wha....Wait..Huh?",
+            "link": "The End",
+            "pid": "13"
+          }
+        ],
+        "name": "No, thank you",
+        "pid": "14",
+        "position": {
+          "x": "708",
+          "y": "413.5"
+        }
+      }
+    ],
+    "name": "Very Awesome Story - Samuel Kriese",
+    "startnode": "1",
+    "creator": "Twine",
+    "creator-version": "2.3.9",
+    "ifid": "91D61E3C-E113-4836-8025-50B168FBBD71"
+  }
